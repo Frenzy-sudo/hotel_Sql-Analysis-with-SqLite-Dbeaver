@@ -1,5 +1,9 @@
 # HOTEL ANALYSIS  USING(SQL ,SQLite,DBeaver and Power Bi)
 This is a data analysis Project focusing mainly on international hotels insights to give a satisfying retationship  among the data that may help a hotel business on how to navigate  in this ecosystem . It mainly includes Three Tables which are Hotels, Users and Reviews.
+
+The data sets are : hotels.csv,users.csv and Reviews.csv .The Database is booking_db.
+All other documents in .jpg images are images of dashboards and SQL code screenshots with their results.
+
 ## Tools  Used
 The Language Used is *SQL* .Together with Darabase Management Tool of  DBeaver, SQLite Database  and Power Bi
 
