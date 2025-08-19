@@ -29,6 +29,8 @@ The main objective of this project was to analyze hotel review data to uncover t
   * A hotel can have multiple and many users as they can.
   * Multiple hotels can also have multiple users and multiple reviews.
 
+  * The ER Diagram images are in .jpg format you can access them and see the relationships.
+
 ## SCHEMA DESIGN
 The dataset is structured around three core tables that can be easily linked:
 
@@ -45,6 +47,7 @@ Users_ID for Users table.
 Reviews_ID for Reviews Table.
 
 ##   Sample Data & Queries
+* All the Results of the SQL codes are given as .jpg files you can access them.
 
 * Rank based on their Review rank
 -SELECT h.hotel_id, h.hotel_name, AVG(h.star_rating ) AS Avg_rating
